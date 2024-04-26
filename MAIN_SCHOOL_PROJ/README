@@ -1,0 +1,6 @@
+Для работы проекта, установите следующие библиотеки в проект в PlatformIO:
+
+Adafruit Unified Sensor
+DHT sensor library
+
+Можете пользоваться!
